@@ -24,9 +24,9 @@
 
 ## 2025 키워드
 
-- **안정화**: 예측 가능성을 높이고 투명성을 확보한다. 내면의 목소리에 집중하여 혼란스러움을 피하자.
+- **안정화**: 새로운 거 시작하지 말고 쌓여 있는 거 정리나 하자카이
 - **한계수용**: 나의 부족한 점을 인정하고 스트레스 받지 않기. 일단 눈 감고 쉼호흡.
-- **믿고맡기기**: 솔직함을 대들보삼고 신뢰를 기둥삼아 우리들의 끈끈한 집을 만들자. 나와 타인의 훌륭함 부족함 모두를 직시하자. 
+- **믿고맡기기**: 솔직함과 신뢰로 우리들의 끈끈한 집을 만들자. 나와 타인의 훌륭함과 부족함 모두를 직시하자. 
 
 ## 2024 키워드
 
@@ -35,7 +35,6 @@
 - **재미**: 골칫거리를 피한다. 현실을 외면한 채 소비에 몰두한다.  나를 최대한 자유롭게 내버려둔다. --- `50%` 달성 → 현실은 결국 빚이 되어 나를 맞이한다.
 
 
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fechoja&label=View&icon=grip-horizontal&color=%23feb272)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fechoja&count_bg=%2381829C&title_bg=%23424651&icon=&icon_color=%23E7E7E7&title=H&edge_flat=true)](https://hits.seeyoufarm.com)
-
-최근 업데이트: 2025/03/07
+최근 업데이트: 2025/04/08

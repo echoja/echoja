@@ -2,6 +2,7 @@
 
 - Node.js, 타입스크립트, React, Next.js를 주로 합니다.
 - 개발, 일상 회고 등 블로그 [봄가을](https://springfall.cc).
+- [일기](https://springfall.cc/ko/til)
 
 
 ## 소속들
@@ -45,4 +46,4 @@
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fechoja&label=View&icon=grip-horizontal&color=%23feb272)
 
-최근 업데이트: 2026/01/01
+최근 업데이트: 2026/01/18

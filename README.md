@@ -9,8 +9,9 @@
 
 |내용|기간|
 |------|---|
-|[Purple IO](https://purple.io)|2021/08 - 현재|
-|[렛츠커리어](https://www.letscareer.co.kr)|2024/06 - 현재|
+|[NSUSLAB](https://nsuslab.com/)|2026/04 - 현재|
+|[Purple IO](https://purple.io)|2021/08 - 2026/04|
+|[렛츠커리어](https://www.letscareer.co.kr)|2024/06 - 2026/01|
 |[글또](https://geultto.github.io) 10기|2024/10 - 2025/03|
 |[방송통신대학교](https://www.knou.ac.kr) 컴퓨터과학과 학사|2021/09 - 2024/08|
 |[42서울](https://42seoul.kr)|2020/10 - 2021/08|
